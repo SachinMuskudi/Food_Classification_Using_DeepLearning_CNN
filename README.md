@@ -18,6 +18,7 @@ width="100%"/>
 <img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge"/>
 
 <br><br>
 
@@ -86,6 +87,43 @@ This project demonstrates how modern AI systems combine:
 
 </tr>
 </table>
+
+---
+
+<h1 align="center">🚀 Model Weights Download</h1>
+
+<div align="center">
+
+<a href="https://github.com/SachinMuskudi/Food_Classification_Using_DeepLearning_CNN/releases/tag/v1.0.0" target="_blank">
+
+<img src="https://img.shields.io/badge/⬇️%20Download%20Weights-Open%20Release-2962FF?style=for-the-badge"/>
+
+</a>
+
+<br><br>
+
+<h3>
+🔗 
+<a href="https://github.com/SachinMuskudi/Food_Classification_Using_DeepLearning_CNN/releases/tag/v1.0.0" target="_blank">
+Download Pretrained Weight Files
+</a>
+</h3>
+
+<p>
+Includes trained weight files for:
+</p>
+
+<ul align="left">
+<li>🧠 Custom CNN Model</li>
+<li>⚙️ VGG16 Transfer Learning Model</li>
+<li>🚀 ResNet50 Transfer Learning Model</li>
+</ul>
+
+<p>
+Weight files are uploaded separately in GitHub Releases because of large file size limitations.
+</p>
+
+</div>
 
 ---
 
@@ -439,7 +477,7 @@ This project helped me understand how modern AI systems are built by integrating
 <h3>1️⃣ Clone Repository</h3>
 
 <pre>
-git clone https://github.com/your-username/Food_Classification_Using_DeepLearning_CNN.git
+git clone https://github.com/SachinMuskudi/Food_Classification_Using_DeepLearning_CNN.git
 </pre>
 
 <h3>2️⃣ Navigate To Project Folder</h3>
@@ -466,11 +504,52 @@ redis-server
 python Set_data_to_redis.py
 </pre>
 
-<h3>6️⃣ Run Flask Application</h3>
+<h3>6️⃣ Download Model Weights</h3>
+
+<pre>
+Download from GitHub Releases section
+</pre>
+
+<h3>7️⃣ Run Flask Application</h3>
 
 <pre>
 python app.py
 </pre>
+
+---
+
+<h1 align="center">🌐 Repository & Downloads</h1>
+
+<div align="center">
+
+<table>
+
+<tr>
+<th>Resource</th>
+<th>Link</th>
+</tr>
+
+<tr>
+<td>📂 GitHub Repository</td>
+<td>
+<a href="https://github.com/SachinMuskudi/Food_Classification_Using_DeepLearning_CNN" target="_blank">
+Open Repository
+</a>
+</td>
+</tr>
+
+<tr>
+<td>⬇️ Model Weight Files</td>
+<td>
+<a href="https://github.com/SachinMuskudi/Food_Classification_Using_DeepLearning_CNN/releases/tag/v1.0.0" target="_blank">
+Download Weights
+</a>
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
